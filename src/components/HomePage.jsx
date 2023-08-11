@@ -1,9 +1,9 @@
 import React from "react";
-// import { MdOutlineboardArrowRight } from "react-icons/md";
-import { MdExpandMore } from "react-icons/md";
 import { Link } from "react-scroll";
 
-import HeroImage from "../public/assets/HeroImage.png";
+// import HeroImage from "../public/assets/HeroImage.png";
+import HeroImage from "../public/assets/heroImage.png"
+ 
 const HomePage = () => {
   return (
     <div
