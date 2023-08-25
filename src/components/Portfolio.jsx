@@ -5,7 +5,8 @@ import { MdExpandMore } from "react-icons/md";
 import questt from "../public/assets/portfolio/questt.png";
 import amigo from "../public/assets/portfolio/amigo.png";
 import ssense from "../public/assets/portfolio/ssense.png";
-import netmeds from "../public/assets/portfolio/netmeds.png";
+// import netmeds from "../public/assets/portfolio/netmeds.png";
+import chokhaImage from "../public/assets/portfolio/chokhaImage.png";
 
 import { Link } from "react-scroll";
 // import Link from "next/link";
@@ -33,9 +34,9 @@ const Portfolio = () => {
     },
     {
       id: 4,
-      title: "Netmeds",
-      imageSrc: netmeds,
-      url: "https://luminous-jelly-c4e3d7.netlify.app/landing",
+      title: "Chokha-Ecom",
+      imageSrc: chokhaImage,
+      url: "https://chokha-ecom.vercel.app/",
     },
   ];
 
