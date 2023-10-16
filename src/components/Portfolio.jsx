@@ -4,7 +4,8 @@ import { MdExpandMore } from "react-icons/md";
 
 import questt from "../public/assets/portfolio/questt.png";
 import amigo from "../public/assets/portfolio/amigo.png";
-import ssense from "../public/assets/portfolio/ssense.png";
+
+import movix from "../public/assets/portfolio/movix.png";
 // import netmeds from "../public/assets/portfolio/netmeds.png";
 import chokhaImage from "../public/assets/portfolio/chokhaImage.png";
 
@@ -28,9 +29,9 @@ const Portfolio = () => {
     },
     {
       id: 3,
-      title: "SSense Ecommerce",
-      imageSrc: ssense,
-      url: "https://tangerine-bublanina-ddee4c.netlify.app/index.html",
+      title: "Movix",
+      imageSrc: movix,
+      url: "https://movix-eta.vercel.app/",
     },
     {
       id: 4,
