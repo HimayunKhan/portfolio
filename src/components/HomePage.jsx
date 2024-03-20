@@ -18,7 +18,7 @@ const HomePage = () => {
           <p className="text-gray-600  py-4 max-w-md">
             I have 2 years of experience building and desgining web applications.
             Currently, I love to work on web application using technologies like
-            React, Tailwind, Next JS,mongoDB, NodeJs and ExpressJS.
+            ReactJs, NextJs, MongoDB, NodeJs and ExpressJS.
           </p>
 
           <div className="">
