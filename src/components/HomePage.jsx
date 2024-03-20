@@ -13,7 +13,7 @@ const HomePage = () => {
       <div className=" pt-[300px] md:pt-0 text-center md:text-left  max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
         <div className="flex flex-col justify-center h-full   mt-[-200px] md:mt-0">
           <h2 className="text-4xl sm:text-7xl   font-bold text-white">
-            I'm a Full Stack Developer
+            I'm a Full Stack Web Developer
           </h2>
           <p className="text-gray-600  py-4 max-w-md">
             I have 2 years of experience building and desgining web applications.
